@@ -1,0 +1,36 @@
+﻿.float-container {
+    border: 3px solid #fff;
+    padding: 20px;
+}
+
+.float-child {
+    float: left;
+    padding: 20px;
+    border: 2px solid red;
+}  
+
+.intro{
+    text-align:center;
+}
+
+#face {
+    border: 2px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 340px;
+    height: 340px;
+}
+
+.radioButtonList {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.radioButtonList.horizontal li {
+    display: inline;
+    }
+
+.radioButtonList label {
+    display: inline;
+}
