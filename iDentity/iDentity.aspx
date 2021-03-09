@@ -11,7 +11,7 @@
         .auto-style1 {
             width: 340px;
             height: 340px;
-        }
+        } 
     </style>
 
     <script>

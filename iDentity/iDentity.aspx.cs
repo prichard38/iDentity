@@ -13,7 +13,7 @@ namespace iDentity
         protected void Page_Load(object sender, EventArgs e)
         {
             //If a picture hasn't been loaded, don't show the picture div.
-            if (face.Src == "#")
+            if (face.Src == "#") 
             {
                 picture.Visible = false;
             }
